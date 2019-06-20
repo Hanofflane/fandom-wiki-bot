@@ -5,8 +5,8 @@
 	"lang": "tr",
 	"dateformat": "tr-TR",
 	"aliase": {
-		"purge": "delete",
-		"temizleme": "delete",
+		"purge": "sil",
+		"temizleme": "sil",
 		"bilgi": "info",
 		"yardım": "help",
 		"anket": "poll",
